@@ -5,6 +5,8 @@ Este repositorio contiene ejercicios básicos de Python enfocados en el análisi
 ## Contenido
 
 *   `data_analysis_exercise.py`: Un script de Python con un ejercicio de análisis de datos.
+*   `data_cleaning_exercise.py`: Un script de Python con un ejercicio de limpieza de datos.
+*   `data_visualization_exercise.py`: Un script de Python con un ejercicio de visualización de datos.
 
 ## Cómo usar
 
