@@ -21,5 +21,5 @@ Este repositorio contiene ejercicios básicos de Python enfocados en el análisi
     python data_analysis_exercise.py
     ```
 
-¡Esperamos que estos ejercicios te sean útiles en tu camino para dominar el análisis de datos con Python!
+
 
